@@ -1,1 +1,1 @@
-# Dual-Channle-Cytron-Alternative-HardWare
+# Dual-Channel-Cytron-Alternative-HardWare
